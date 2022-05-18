@@ -1,0 +1,15 @@
+//
+//  stage.xcconfig
+//  Runner
+//
+//  Created by Aprikot on 18/05/22.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Generated.xcconfig"
+BUNDLE_ID_SUFFIX=.stage
+PRODUCT_BUNDLE_IDENTIFIER=com.ivo.scmMobileApp
+FLUTTER_TARGET=/Users/aprikot/Project/scm_mobile_app/lib/main_stage.dart
+APP_DISPLAY_NAME=[stage] Sociomile Chat

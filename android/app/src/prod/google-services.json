@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "233168628775",
+    "project_id": "ripple10app",
+    "storage_bucket": "ripple10app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:233168628775:android:615821f0441416ef67b202",
+        "android_client_info": {
+          "package_name": "com.ivo.ripple10_mobile_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "233168628775-fvs1u96htsrk54pajnbio9m672jv4o5t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ivo.ripple10_mobile_app",
+            "certificate_hash": "e1d98a23bf625f7607320b65797162a2f01d58bc"
+          }
+        },
+        {
+          "client_id": "233168628775-oq97cf0vaj5qpf0n5ce3q3rrl3nlkp68.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbCGfa10L6_-bz8EmqL4gzfmC9Tv4-OZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "233168628775-oq97cf0vaj5qpf0n5ce3q3rrl3nlkp68.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
